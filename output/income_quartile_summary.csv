@@ -1,0 +1,5 @@
+Income_Quartile,Hospitals,Median_Income,Mean_ED_LOS,Median_ED_LOS
+Q1 - Lowest,8,40062.5,220.38,212.0
+Q2,9,59661.0,221.11,222.0
+Q3,6,78754.5,228.33,223.5
+Q4 - Highest,8,147321.5,215.12,203.5

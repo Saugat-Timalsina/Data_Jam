@@ -1,0 +1,6 @@
+Income_Position,Facility Name,Borough,ZIP Code,Median_Household_Income,ED_LOS_minutes,ED_Volume_Category,Hospital Ownership,Hospital overall rating
+Low-income location,BRONXCARE HOSPITAL CENTER,Bronx,10456,34954.0,190.0,very high,Voluntary non-profit - Private,1
+Lower-middle,FLUSHING HOSPITAL MEDICAL CENTER,Queens,11355,55326.0,222.0,medium,Voluntary non-profit - Private,2
+Middle,KINGS COUNTY HOSPITAL CENTER,Brooklyn,11203,67897.0,271.0,,Government - Local,1
+Upper-middle,JAMAICA HOSPITAL MEDICAL CENTER,Queens,11418,90156.0,228.0,very high,Voluntary non-profit - Private,1
+High-income location,BROOKLYN HOSPITAL CENTER - DOWNTOWN CAMPUS,Brooklyn,11201,173136.0,203.0,high,Voluntary non-profit - Other,2
